@@ -1,0 +1,12 @@
+gym==0.20.0
+gym-notices==0.0.8
+ma-gym==0.0.12
+numpy==1.23.4
+pandas==1.5.1
+pycparser==2.21
+pygame==2.1.2
+pyglet==1.5.27
+Pygments==2.11.1
+scipy==1.9.3
+torch==1.13.0
+wandb==0.13.6
