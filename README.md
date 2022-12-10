@@ -1,6 +1,6 @@
 # Uvic_Simulation
 
- It is recomneded to use open "Gholamzadeh_Code.ipynb" and then run cells in order.
+It is recommended to open "Gholamzadeh_Code.ipynb" and then run cells in order.
  
  At the final cell, you can simply change settings:
  
@@ -18,13 +18,13 @@
               'update_iter': 10,
               'monitor': False}
               
-And at ther end you can see resuts in the following link:
+And at the end you can see results in the following link:
 
 https://wandb.ai/uvic_simulation/minimal-marl
 
 ***********************************************************************************
 
-If you want to run code in your local machine, clone the reposityry first and then open "Gholamzadeh_Code.py"
+If you want to run code in your local machine, clone the repository first and then open "Gholamzadeh_Code.py"
 
 then run following code:
 
